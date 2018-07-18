@@ -7,8 +7,8 @@
 % load javaplex and relevant data
 load_javaplex
 
-load('SPRINT_Towers.mat');
-load('Towns.mat');
+load('data/SPRINT_Towers.mat');
+load('data/Towns.mat');
  
 X = SPRINT_Towers;
 Y = Towns;
