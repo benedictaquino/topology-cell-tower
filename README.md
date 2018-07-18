@@ -4,5 +4,5 @@
 ### To-do
 - [x] Collected data, scripts, images from project
 - [x] Cleaned folder structure
-- [ ] Revise scripts to work with new folder structure
+- [x] Revise scripts to work with new folder structure
 - [ ] Re-write final technical report
